@@ -1,0 +1,4 @@
+node_modules
+*.jar
+DynamoDBLocal_lib
+third_party_licenses
